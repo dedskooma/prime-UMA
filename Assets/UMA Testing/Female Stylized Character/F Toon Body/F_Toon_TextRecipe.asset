@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9448878e2e40f1a4c9f8fd2b56832b13, type: 3}
+  m_Name: F_Toon_TextRecipe
+  m_EditorClassIdentifier: 
+  label: 
+  resourcesOnly: 0
+  recipeType: Standard
+  DisplayValue: 
+  compatibleRaces: []
+  wardrobeRecipeThumbs: []
+  wardrobeSlot: None
+  Hides: []
+  HideTags: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet: []
+  MeshHideAssets: []
+  OverrideDNA:
+    PreloadValues: []
+  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"F_body_arms_lower","scale":100,"copyIdx":-1,"overlays":[{"id":"F_body_hips_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"F_body_arms_upper","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"F_body_feet","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"F_body_hands","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"F_body_hips","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"F_body_legs_knee","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"F_body_legs_lower","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"F_body_legs_upper","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"F_body_shoulders","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"F_body_torso","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"F_body_torso.001","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"F_eyes","scale":100,"copyIdx":-1,"overlays":[{"id":"F_eyes_Overlay","colorIdx":1,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"F_face","scale":100,"copyIdx":-1,"overlays":[{"id":"F_face_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"F_mouth","scale":100,"copyIdx":-1,"overlays":[{"id":"F_mouth_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[],"Tags":[],"Races":[]},{"id":"F_head","scale":100,"copyIdx":4,"overlays":[],"Tags":[],"Races":[]},{"id":"F_eyebrow","scale":100,"copyIdx":-1,"overlays":[{"id":"F_eyebrow_Overlay","colorIdx":2,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]}],"colors":[],"fColors":[{"name":"Body
+    Color","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0],"ShaderParms":["Color;#FF735400;_Color_A_1","Color;#D1B0A700;_Color_A_2","Color;#73624D00;_Color_B_1","Color;#D8777600;_Color_B_2"],"alwaysUpdate":true},{"name":"EyesColor","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0],"ShaderParms":["Color;#F8F8F800;_Color_A_1","Color;#F8F8F800;_Color_A_2","Color;#22212000;_Color_B_1","Color;#617D1D00;_Color_B_2"],"alwaysUpdate":true},{"name":"Eyebrow","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0],"ShaderParms":["Color;#11070200;_Color_A_2"],"alwaysUpdate":true}],"sharedColorCount":3,"race":"Female
+    Stylized Toon","packedDna":[],"wardrobeSet":[],"packedRecipeType":"Standard"}'
