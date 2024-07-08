@@ -22,7 +22,7 @@ MonoBehaviour:
   - race: Female Stylized Toon
     filename: 
     thumb: {fileID: 0}
-  wardrobeSlot: Hair
+  wardrobeSlot: Shirt
   Hides:
   - F_body_arms_lower
   - F_body_arms_upper

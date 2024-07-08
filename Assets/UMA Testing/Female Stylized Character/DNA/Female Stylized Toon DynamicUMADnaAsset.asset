@@ -17,9 +17,10 @@ MonoBehaviour:
     Toon DynamicUMADnaAsset.asset
   lastKnownDuplicateAssetPath: Assets/UMA Testing/Female Stylized Character/DNA/Female
     Stylized Toon DynamicUMADnaAsset 1.asset
-  lastKnownInstanceID: 31224
+  lastKnownInstanceID: 30362
   Names:
   - height
+  - blendEyeSize
   - neckLength
   - neckWidth
   - armLength
