@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4386991419952624996}
-  - component: {fileID: 5645105462555429355}
+  - component: {fileID: 3077405322916906199}
   m_Layer: 0
   m_Name: BoneCleaner
   m_TagString: Untagged
@@ -32,7 +32,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5645105462555429355
+--- !u!114 &3077405322916906199
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

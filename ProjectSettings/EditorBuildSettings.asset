@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/UMA Testing/UMA Test.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: ef0c672f7ff077f4196f2eef614d757c,
+      type: 2}
