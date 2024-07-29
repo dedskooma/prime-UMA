@@ -24,9 +24,9 @@ MonoBehaviour:
     thumb: {fileID: 0}
   wardrobeSlot: Pants
   Hides:
-  - F_body_hips
   - F_body_legs_knee
   - F_body_legs_upper
+  - F_body_hips
   HideTags: []
   suppressWardrobeSlots: []
   activeWardrobeSet: []

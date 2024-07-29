@@ -25,7 +25,8 @@ MonoBehaviour:
   wardrobeSlot: Hair
   Hides: []
   HideTags: []
-  suppressWardrobeSlots: []
+  suppressWardrobeSlots:
+  - Hair Tail
   activeWardrobeSet: []
   MeshHideAssets: []
   OverrideDNA:

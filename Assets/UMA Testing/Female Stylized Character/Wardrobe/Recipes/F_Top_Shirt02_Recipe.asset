@@ -31,7 +31,9 @@ MonoBehaviour:
   activeWardrobeSet: []
   MeshHideAssets: []
   OverrideDNA:
-    PreloadValues: []
+    PreloadValues:
+    - Name: armLength
+      Value: 0.854
   recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"F_Top_Shirt02","scale":100,"copyIdx":-1,"overlays":[{"id":"F_Top_Shirt02_Overlay","colorIdx":0,"rect":[0.0,0.0,0.0,0.0],"isTransformed":false,"scale":{"x":1.0,"y":1.0,"z":1.0},"rotation":0.0}],"Tags":[],"Races":[]}],"colors":[],"fColors":[{"name":"-","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0],"ShaderParms":[],"alwaysUpdate":false}],"sharedColorCount":0,"race":"Female
     Stylized Toon","packedDna":[]}'
   IncompatibleRecipes: []

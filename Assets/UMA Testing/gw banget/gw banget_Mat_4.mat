@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4562812695456092891
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!114 &-3894785822408064676
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: gw banget_Mat_4
+  m_Shader: {fileID: -6465566751694194690, guid: fd620aba4b961b64690c6f9f0c91b5c8,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _GLOSSYREFLECTIONS_OFF
+  - _NORMALMAP
+  - _SPECULARHIGHLIGHTS_OFF
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Albeddo:
+        m_Texture: {fileID: 2800000, guid: 31e01b12b3daff040b1a88b9f0ccb089, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 22cd5c67760a1a8458891458a6da33d4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 38f803be95caf104cb93553ea7307ac9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Logo_Image:
+        m_Texture: {fileID: 2800000, guid: 81f979e10f1681744b7690897c994c9d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    - _GlossMapScale: 0
+    - _Glossiness: 0.36
+    - _Logo_Mask: 0
+    - _Mask_Factor: 0.45
+    - _Metallic: 0.207
+    - _Normal_Adjust: 0
+    - _OcclusionStrength: 1
+    - _Outline_Thickness: 0.8
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Smoothness: 0.087
+    - _SpecularHighlights: 0
+    - _Thickness: 0.658
+    - _Use_Albeddo: 0
+    m_Colors:
+    - _BaseColor: {r: 0.20754719, g: 0.19123058, b: 0.18307228, a: 0}
+    - _Color: {r: 0.29758772, g: 0.4245283, b: 0.26232645, a: 1}
+    - _Color_A_1: {r: 1, g: 1, b: 1, a: 0}
+    - _Color_A_2: {r: 0.06666667, g: 0.02745098, b: 0.007843138, a: 0}
+    - _Color_B_1: {r: 1, g: 1, b: 1, a: 0}
+    - _Color_B_2: {r: 0, g: 1, b: 0.4150698, a: 0}
+    - _Color_C_1: {r: 1, g: 1, b: 1, a: 0}
+    - _Color_C_2: {r: 0.2264151, g: 0.19544323, b: 0.19544323, a: 0}
+    - _MaskRemap: {r: 0, g: 1, b: 0, a: 0}
+    - _Outline_Color: {r: 0, g: 0, b: 0, a: 0}
+    - _RimColor: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
